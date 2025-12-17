@@ -9,4 +9,4 @@ Click [this link](https://openrefine.org/download) to download OpenRefine. Unzip
 Geospatial analysis with [Kepler.gl](https://kepler.gl/)
 
 Image annotation with [Make Sense](https://www.makesense.ai/?utm_source=chatgpt.com)
-or (VGG Image Annotator)[https://gitlab.com/vgg/via/-/blob/master/README.md?ref_type=heads&utm_source=chatgpt.com]
+or [VGG Image Annotator](https://gitlab.com/vgg/via/-/blob/master/README.md?ref_type=heads&utm_source=chatgpt.com)
