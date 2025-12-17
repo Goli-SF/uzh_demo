@@ -7,5 +7,5 @@ Click [this link](https://raw.githubusercontent.com/Goli-SF/uzh_demo/main/data/m
 ## Download and install OpenRefine
 Click [this link](https://openrefine.org/download) to download OpenRefine. Unzip the downloaded file on your computer and then run `openrefine.exe`.
 
-## Kepler.gl for geospatial analysis
+## Use Kepler.gl for geospatial analysis
 Click [this link](https://kepler.gl/) to start using Kepler.gl.
