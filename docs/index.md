@@ -1,4 +1,4 @@
-## Visit the website of MoMA (Museum of Modern Art)
+## Visit the website of MoMA
 Click [this link](https://www.moma.org/) to visit the website of MoMa (Museum of Modern Art,
 New York)
 
