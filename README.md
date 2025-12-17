@@ -1,0 +1,1 @@
+This repo contains the links and materials prepared for a 30-minute teaching demonstration at the University of Zurich on 14.01.2026.
