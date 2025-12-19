@@ -9,3 +9,6 @@ Click [this link](https://openrefine.org/download) to download OpenRefine. Unzip
 
 ## Use Kepler.gl for geospatial analysis
 Click [this link](https://kepler.gl/) to start using Kepler.gl.
+
+## Use Python for data visualization
+Click [this link](https://mybinder.org/v2/gh/Goli-SF/uzh_demo/main?urlpath=%2Fdoc%2Ftree%2Fvisualize_mies_works.ipynb) to to create a bar chart displaying the count of Mies van der Rohe's works in the MoMA collection based on their creation date.
