@@ -15,4 +15,7 @@ Click [this link](https://mybinder.org/v2/gh/Goli-SF/uzh_demo/main?urlpath=%2Fdo
 
 <br><br><br><br><br><br>
 
-![Diagram of exploratory data analysis workflow](diagram.png)
+<figure>
+<img src="diagram.png" alt="Diagram of exploratory data analysis workflow">
+<figcaption>Diagram of exploratory data analysis workflow</figcaption>
+</figure>
