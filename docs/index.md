@@ -1,4 +1,4 @@
-## >>> Links and materials
+## 1. Links and materials
 
 ### Visit the website of MoMA
 Click [this link](https://www.moma.org/) to visit the website of MoMa (Museum of Modern Art).
@@ -17,8 +17,6 @@ Click [this link](https://mybinder.org/v2/gh/Goli-SF/uzh_demo/main?urlpath=%2Fdo
 
 <br>
 
-## >>> Conclusion: the exploratory data analysis workflow
-
-<br>
+## 2. The exploratory data analysis workflow
 
 ![Diagram of exploratory data analysis workflow](diagram.png)
