@@ -1,4 +1,4 @@
-# 1. Links and materials
+# > Links and materials
 
 ## Visit the website of MoMA
 Click [this link](https://www.moma.org/) to visit the website of MoMa (Museum of Modern Art).
@@ -15,8 +15,8 @@ Click [this link](https://kepler.gl/) to start using Kepler.gl.
 ## Use Python for data visualization
 Click [this link](https://mybinder.org/v2/gh/Goli-SF/uzh_demo/main?urlpath=%2Fdoc%2Ftree%2Fvisualize_mies_works.ipynb) to to create a bar chart displaying the count of Mies van der Rohe's works in the MoMA collection based on their creation date.
 
-# 2. Conclusion: he exploratory data analysis workflow
-
 <br>
+
+# > Conclusion: the exploratory data analysis workflow
 
 ![Diagram of exploratory data analysis workflow](diagram.png)
