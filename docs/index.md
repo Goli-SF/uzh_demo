@@ -13,6 +13,8 @@ Click [this link](https://kepler.gl/) to start using Kepler.gl.
 ## Use Python for data visualization
 Click [this link](https://mybinder.org/v2/gh/Goli-SF/uzh_demo/main?urlpath=%2Fdoc%2Ftree%2Fvisualize_mies_works.ipynb) to to create a bar chart displaying the count of Mies van der Rohe's works in the MoMA collection based on their creation date.
 
-<br><br><br><br>
+## Exploratory data analysis workflow
+
+<br><br>
 
 ![Diagram of exploratory data analysis workflow](diagram.png)
